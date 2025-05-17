@@ -41,4 +41,15 @@ __________________________________________
 The code
 We solve the ODEs using RK method then output the results to csv. Using matplotlib in python we plot the results. The user can provide input values.We also set a precision for the floating point numbers. We store the derivatives in a struct and the numerical integration is then done.
 
+___________________________________________
+
+Outputs
+
+SIR 
+![image](https://github.com/user-attachments/assets/4d74f411-ca8c-49f4-ba9c-ff663aa558bc)
+![image](https://github.com/user-attachments/assets/fd86fd17-ab78-44af-a46f-bef37f31b46b)
+
+
+
+
 
