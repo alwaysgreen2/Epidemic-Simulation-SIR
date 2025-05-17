@@ -45,9 +45,44 @@ ___________________________________________
 
 Outputs
 
-SIR 
+SIR model
+
+
 ![image](https://github.com/user-attachments/assets/4d74f411-ca8c-49f4-ba9c-ff663aa558bc)
 ![image](https://github.com/user-attachments/assets/fd86fd17-ab78-44af-a46f-bef37f31b46b)
+
+____________________________________________
+
+SIRD model
+
+
+![image](https://github.com/user-attachments/assets/d4c1aa6a-cde4-4352-a18f-d1266a730332)
+![image](https://github.com/user-attachments/assets/537b36e4-5ab0-473e-aa73-46d5a1bd6bab)
+
+
+____________________________________________
+
+SIS model
+
+
+![image](https://github.com/user-attachments/assets/92f2475f-a8c6-4d3b-96e2-c31f0e3c3d25)
+![image](https://github.com/user-attachments/assets/5fd3042c-63aa-4803-8a75-0f117587db73)
+
+
+
+___________________________________________
+
+Stochastic SIR model 
+
+
+![image](https://github.com/user-attachments/assets/752cf69c-844f-4bdb-8024-de1475a0d978)
+![image](https://github.com/user-attachments/assets/26726a7a-1524-4183-b0e1-63f03f22d30a)
+
+
+
+
+
+
 
 
 
