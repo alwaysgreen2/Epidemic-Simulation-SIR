@@ -31,3 +31,14 @@ ________________________________________
 4. Stochastic SIR Model
 The stochastic SIR model incorporates randomness into the transmission and recovery processes, acknowledging that real-world disease spread involves probabilistic events. This model is particularly useful for small populations or early outbreak stages, where chance events significantly influence outcomes.
 
+__________________________________________
+
+The algorithm
+A numerical algorithm is used here.The Runge-Kutta (RK) methods, particularly the fourth-order Runge-Kutta (RK4), are widely for solving ordinary differential equations (ODEs) that arise in epidemiological models like SIR, SIS, and SIRD. These models describe the dynamics of disease spread through compartments representing different population groups.
+
+__________________________________________
+
+The code
+We solve the ODEs using RK method then output the results to csv. Using matplotlib in python we plot the results. The user can provide input values.We also set a precision for the floating point numbers. We store the derivatives in a struct and the numerical integration is then done.
+
+
