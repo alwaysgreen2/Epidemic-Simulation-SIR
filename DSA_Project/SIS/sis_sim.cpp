@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <iomanip> // For std::setprecision
+#include <iomanip> 
 
 struct SIS {
     double S;
@@ -76,7 +76,7 @@ int main() {
 
     std::ofstream file("sis_output.csv");
     file << "Time,Susceptible,Infected\n";
-    file << std::fixed << std::setprecision(6); // Set precision for floating-point output
+    file << std::fixed << std::setprecision(6); 
 
     for (int i = 0; i <= steps; ++i) {
         double time = i * dt;
